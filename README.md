@@ -1,0 +1,5 @@
+- 返回给上一级活动数据startActivityForResult
+- 按button后退
+- 按back后退
+- onActivityResult在生命周期哪一段
+- onSavedInstanceState
